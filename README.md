@@ -1,8 +1,8 @@
 ## Note Taker App
 
-<h3> Screenshots </h3>
+<h1> Screenshots </h1>
 
-<h4> Live Website </h4>
+<h2> Live Website </h2>
 
 ## Questions
 If have any questions for me, please [contact me](mailto:frankie01marie@yahoo.com).
